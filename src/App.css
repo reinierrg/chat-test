@@ -1,0 +1,30 @@
+body, html {
+    margin: 0;
+    background: #222;
+    font-family: system-ui;
+    min-height: 100vh;
+}
+
+.app-container {
+    display: flex;
+    height: 100vh;
+}
+
+.app-user-list {
+    width: 200px; 
+    background-color: #222;
+    padding: 20px;
+    border-right: 1px solid #ccc;
+}
+
+.app-conversation {
+    flex-grow: 1; 
+    padding: 20px;
+    background-color: yellow;
+}
+
+.app-user-list li {
+    display: flex;
+    flex-direction: column;
+}
+

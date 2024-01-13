@@ -1,0 +1,245 @@
+{
+    "data": [
+      {
+        "name": "Trabajo",
+        "id": "trabajo",
+        "users": [
+          {
+            "userName": "pepe",
+            "name": "Pepe Gomez",
+            "id": 1,
+            "messages": [
+              {
+                "id": "454534",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "12",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "13",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "14",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "15",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "16",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "17",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "18",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "19",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "110",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "111",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "112",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "1123",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "143",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "152",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "136",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "167",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "178",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "198",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "176",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "154",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "143",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "12333",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "1434",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "14532",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "14452",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "1677",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "1665",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "1456",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "1675",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "13434",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "156",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "1564",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "154",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              },
+              {
+                "id": "154",
+                "with": "me",
+                "message": "Hola Juan, ¿cómo estás?"
+              },
+              {
+                "id": "157333",
+                "with": "you",
+                "message": "María, ¿vamos a salir este fin de semana?"
+              }
+            ]
+          },
+          {
+            "userName": "pheralb",
+            "name": "Pablo H.",
+            "id": 2,
+            "messages": [
+              {
+                "id": "144333",
+                "with": "Pepe",
+                "message": "¡Hola Pepe! Todo bien, gracias."
+              }
+            ]
+          },
+          {
+            "userName": "PacoHdezs",
+            "name": "Paco Hdez",
+            "id": 3,
+            "messages": [
+              {
+                "id": "133",
+                "with": "Pepe",
+                "message": "¡Claro Pepe, vamos a planificarlo!"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Amigos",
+        "id": "amigos",
+        "users": [
+          {
+            "userName": "TMChein",
+            "name": "Tomas",
+            "id": 4,
+            "messages": [
+              {
+                "id": "13332",
+                "with": "Ana",
+                "message": "Ana, ¿puedes revisar el informe?"
+              }
+            ]
+          },
+          {
+            "userName": "ana",
+            "name": "Ana",
+            "id": 5,
+            "messages": []
+          }
+        ]
+      }
+    ]
+}

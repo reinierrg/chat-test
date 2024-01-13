@@ -1,0 +1,16 @@
+.conversation-container { 
+    color: black;
+    overflow-y: auto;
+    z-index: 100;
+    box-sizing: border-box;
+    overflow: scroll;
+    padding: 24px;
+}
+
+.conversation-messages {
+    display: block;
+}
+
+.message-list {
+
+}

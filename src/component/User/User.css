@@ -1,0 +1,49 @@
+.userCard {
+  display: flex;
+  align-items: center;
+  color: #070707;
+  font-size: 0.8rem;
+  justify-content: space-between;
+  margin-bottom: 5px;
+  padding: 5px;
+}
+
+.userCard-Selected {
+    display: flex;
+    align-items: center;
+    color: #070707;
+    background-color: rgb(54, 54, 109);
+    font-size: 0.8rem;
+    justify-content: space-between;
+    margin-bottom: 5px;
+    padding: 5px;
+  }
+
+.userCard:hover {
+  opacity: 0.8;
+  pointer-events: painted;
+}
+.userCard-header {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.userCard-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.userCard-conversation {
+  opacity: 0.6;
+}
+
+.userCard-avatar {
+  width: 30px;
+  height: 30px;
+  border-radius: 1000px;
+}
+
+.userCard-text {
+  display: block;
+}
